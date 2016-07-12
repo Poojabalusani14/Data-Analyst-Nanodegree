@@ -6,4 +6,5 @@ Uses descriptive statistics and a statistical test to analyze the Stroop effect,
 Project 2 : Investigate a dataset (Data Analysis, mainly NumPy and Pandas)
 Explored and investigated, also drawn conclusions on the Titanic Dataset
 Project 3 : Explore and summarize data using R (ggplot2 / qplot)
-In depth analysis of the white wine dataset
+In depth analysis of the white wine dataset.
+
